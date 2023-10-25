@@ -29,6 +29,10 @@ header .wrap {
     padding-right: 20px;
   }
 }
+body a {
+  color: #7d8488;
+  text-decoration: none;
+}
 header {
   position: fixed;
   top: 0;
